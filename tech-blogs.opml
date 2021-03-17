@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <opml version="1.0">
     <head>
         <title>Bruno subscriptions in feedly Cloud</title>
@@ -9,19 +10,28 @@
         </outline>
         <outline text="Engineering" title="Engineering">
             <outline type="rss" text="Software Development in HackerNoon.com on Medium" title="Software Development in HackerNoon.com on Medium" xmlUrl="https://medium.com/feed/hacker-daily/tagged/software-development" htmlUrl="https://hackernoon.com/tagged/software-development?source=rss----3a8144eabfe3--software_development"/>
-            <outline type="rss" text="The Lightbend Blog" title="The Lightbend Blog" xmlUrl="https://www.lightbend.com/blog/rss.xml" htmlUrl="http://www.lightbend.com/blog"/>
+            <outline type="rss" text="The Lightbend Blog" title="The Lightbend Blog" xmlUrl="https://www.lightbend.com/blog/rss.xml" htmlUrl="https://www.lightbend.com/blog"/>
+            <outline type="rss" text="GetNinjas" title="GetNinjas" xmlUrl="https://labs.getninjas.com.br/feed" htmlUrl="https://labs.getninjas.com.br?source=rss----b122a892a4e1---4"/>
             <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="http://martinfowler.com/bliki/bliki.atom" htmlUrl="https://martinfowler.com"/>
             <outline type="rss" text="Zalando Tech Blog" title="Zalando Tech Blog" xmlUrl="https://tech.zalando.com/blog/rss-all.xml" htmlUrl="https://jobs.zalando.com/"/>
+            <outline type="rss" text="Blog da Caelum: desenvolvimento, web, mobile, UX e Scrum" title="Blog da Caelum: desenvolvimento, web, mobile, UX e Scrum" xmlUrl="http://blog.caelum.com.br/feed/" htmlUrl="https://blog.caelum.com.br"/>
             <outline type="rss" text="Red Hat OpenShift Blog" title="Red Hat OpenShift Blog" xmlUrl="https://openshift.redhat.com/community/blogs/feed" htmlUrl="https://blog.openshift.com"/>
+            <outline type="rss" text="React" title="React" xmlUrl="http://facebook.github.io/react/feed.xml" htmlUrl="https://reactjs.org"/>
             <outline type="rss" text="Oracle Blogs | Java Magazine" title="Oracle Blogs | Java Magazine" xmlUrl="https://blogs.oracle.com/javamagazine/compendium/rss" htmlUrl="https://blogs.oracle.com/javamagazine/compendium/rss"/>
             <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="http://www.infoq.com/rss/rss.action" htmlUrl="https://www.infoq.com"/>
+            <outline type="rss" text="brunojensen" title="brunojensen" xmlUrl="http://brunojensen.github.io/feed.xml" htmlUrl="http://brunojensen.github.io/"/>
+            <outline type="rss" text="Serverless Blog RSS Feed" title="Serverless Blog RSS Feed" xmlUrl="https://serverless.com/blog/feed.xml" htmlUrl="https://serverless.com"/>
             <outline type="rss" text="WalmartLabs" title="WalmartLabs" xmlUrl="https://medium.com/feed/walmartlabs" htmlUrl="https://medium.com/walmartlabs?source=rss----905ea2b3d4d1---4"/>
             <outline type="rss" text="DZone Java Zone" title="DZone Java Zone" xmlUrl="http://www.javalobby.org/forumRSS/18032.xml" htmlUrl="https://dzone.com/java-jdk-development-tutorials-tools-news"/>
+            <outline type="rss" text="The unknown developer podcast" title="The unknown developer podcast" xmlUrl="https://feed.podbean.com/theunknowndeveloper/feed.xml" htmlUrl="https://the-unknown-developer-podcast.github.io/"/>
             <outline type="rss" text="Enterprise Software Development with Java" title="Enterprise Software Development with Java" xmlUrl="http://feeds.feedburner.com/EnterpriseSoftwareDevelopmentWithJava" htmlUrl="https://blog.eisele.net/"/>
+            <outline type="rss" text="ContaAzul Engineering Blog" title="ContaAzul Engineering Blog" xmlUrl="https://engineering.contaazul.com/feed" htmlUrl="https://engineering.contaazul.com?source=rss----10a820a72195---4"/>
+            <outline type="rss" text="fettblog.eu | TypeScript, JavaScript, Jamstack" title="fettblog.eu | TypeScript, JavaScript, Jamstack" xmlUrl="http://www.fettblog.eu/feed/" htmlUrl="https://fettblog.eu/"/>
             <outline type="rss" text="Yegor Bugayenko" title="Yegor Bugayenko" xmlUrl="http://www.yegor256.com/rss" htmlUrl="https://www.yegor256.com/"/>
             <outline type="rss" text="Confluent" title="Confluent" xmlUrl="https://www.confluent.io/feed/" htmlUrl="https://www.confluent.io"/>
             <outline type="rss" text="Red Hat Developer" title="Red Hat Developer" xmlUrl="http://developerblog.redhat.com/feed/" htmlUrl="https://developers.redhat.com/blog"/>
-            <outline type="rss" text="Netflix TechBlog" title="Netflix TechBlog" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="https://medium.com/netflix-techblog?source=rss----2615bd06b42e---4"/>
+            <outline type="rss" text="AWS Lambda – AWS Compute Blog" title="AWS Lambda – AWS Compute Blog" xmlUrl="https://aws.amazon.com/blogs/compute/category/compute/aws-lambda/feed/" htmlUrl="https://aws.amazon.com/blogs/compute/"/>
+            <outline type="rss" text="Netflix TechBlog" title="Netflix TechBlog" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="https://netflixtechblog.com?source=rss----2615bd06b42e---4"/>
             <outline type="rss" text="GV Library" title="GV Library" xmlUrl="http://feeds.feedburner.com/DesignStaff" htmlUrl="https://library.gv.com?source=rss----dfc85068874c---4"/>
             <outline type="rss" text="Building Nubank" title="Building Nubank" xmlUrl="https://medium.com/feed/building-nubank" htmlUrl="https://medium.com/building-nubank?source=rss----472303f1ec06---4"/>
             <outline type="rss" text="trivago tech blog" title="trivago tech blog" xmlUrl="http://tech.trivago.com/index.xml" htmlUrl="https://tech.trivago.com/"/>
@@ -30,15 +40,17 @@
             <outline type="rss" text="Engineering – The GitHub Blog" title="Engineering – The GitHub Blog" xmlUrl="http://githubengineering.com/atom.xml" htmlUrl="https://github.blog"/>
             <outline type="rss" text="Giant Robots Smashing Into Other Giant Robots" title="Giant Robots Smashing Into Other Giant Robots" xmlUrl="http://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots" htmlUrl="https://thoughtbot.com/blog"/>
             <outline type="rss" text="Spring Engineering" title="Spring Engineering" xmlUrl="http://spring.io/blog/category/engineering.atom" htmlUrl="https://spring.io/blog/category/engineering"/>
-            <outline type="rss" text="Labs" title="Labs" xmlUrl="http://labs.spotify.com/feed/" htmlUrl="https://labs.spotify.com"/>
+            <outline type="rss" text="Spotify Engineering" title="Spotify Engineering" xmlUrl="http://labs.spotify.com/feed/" htmlUrl="https://engineering.atspotify.com"/>
             <outline type="rss" text="Cloud Native Computing Foundation" title="Cloud Native Computing Foundation" xmlUrl="https://www.cncf.io/feed" htmlUrl="https://www.cncf.io"/>
-            <outline type="rss" text="JavaWorld" title="JavaWorld" xmlUrl="http://www.javaworld.com/index.xml" htmlUrl="https://www.javaworld.com"/>
+        </outline>
+        <outline text="Python" title="Python">
+            <outline type="rss" text="Planet Python" title="Planet Python" xmlUrl="http://planet.python.org/rss10.xml" htmlUrl="http://planetpython.org/"/>
         </outline>
         <outline text="News" title="News">
-            <outline type="rss" text="Spring News and Events" title="Spring News and Events" xmlUrl="http://spring.io/blog/category/news.atom" htmlUrl="https://spring.io/blog/category/news"/>
+            <outline type="rss" text="The Verge -  All Posts" title="The Verge -  All Posts" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/"/>
             <outline type="rss" text="Wired" title="Wired" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="https://www.wired.com/latest"/>
             <outline type="rss" text="Red Hat Blog" title="Red Hat Blog" xmlUrl="https://www.redhat.com/en/rss/blog" htmlUrl="https://www.redhat.com/en/rss/blog"/>
-            <outline type="rss" text="Gartner Blog Network gbn-feed - Gartner Blog Network" title="Gartner Blog Network gbn-feed - Gartner Blog Network" xmlUrl="http://blogs.gartner.com/gbn-feed/" htmlUrl="https://blogs.gartner.com/digital-marketing"/>
+            <outline type="rss" text="Gartner Blog Network" title="Gartner Blog Network" xmlUrl="http://blogs.gartner.com/gbn-feed/" htmlUrl="https://www.gartner.com/en/blogs"/>
         </outline>
     </body>
 </opml>
